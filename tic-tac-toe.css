@@ -1,0 +1,48 @@
+body{
+    background: pink;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    /* border: 1px solid blue; */
+    width: 50%;
+    margin: 10px auto;
+}
+
+.table{
+    /* border: 1px solid white; */
+    margin: 60px auto;
+    width: 400px;
+    height: 350px
+}
+
+#two{
+    width: 30%;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+
+#four{
+    width: 30%;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
+
+#five{
+    width: 30%;
+    height: 117px;
+    border: 2px solid white;
+}
+
+#six{
+    width: 30%;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
+
+#eight{
+    width: 30%;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
